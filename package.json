@@ -1,0 +1,28 @@
+{
+  "name": "lwu-storage-bot",
+  "version": "1.0.0",
+  "description": "A Telegram storage and sharing bot that allows users to upload files and generate private access links to retrieve them later.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sychoxhassan/LwuStorageBot"
+  },
+  "homepage": "https://github.com/sychoxhassan/LwuStorageBot",
+  "keywords": [
+    "telegram",
+    "telegram-bot",
+    "file-sharing",
+    "storage-bot",
+    "telegram-api",
+    "nodejs"
+  ],
+  "author": "Sychox2006",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
